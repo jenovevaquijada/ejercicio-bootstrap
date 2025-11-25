@@ -1,0 +1,21 @@
+h1, h2 {
+    color: red;
+}
+
+body {
+    background-color:lightblue;
+}
+
+#imagen-01 {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+#btnTop { 
+    position: fixed; 
+    right: 16px; 
+    bottom: 16px; 
+    padding: 10px 14px; 
+} 

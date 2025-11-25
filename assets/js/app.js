@@ -1,0 +1,13 @@
+// Botón con id="btnTop" 
+const btnTop = document.getElementById("btnTop");
+if (btnTop) {
+    btnTop.addEventListener("click", () => { 
+        window.scrollTo({ top: 0, behavior: "smooth" });
+    }); 
+} 
+
+window.scroll({
+  top: 2500,
+  left: 0,
+  behavior: 'smooth'
+});
