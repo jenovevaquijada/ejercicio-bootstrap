@@ -1,6 +1,8 @@
-#btnTop { 
-    position: fixed; 
-    right: 16px; 
-    bottom: 16px; 
-    padding: 10px 14px; 
-} 
+#btnsubir { 
+    position: fixed;
+    right: 16px;
+    bottom: 48px;
+    padding: 10px 14px;
+    background-color: #3366FF;
+    color: #FFFFFF;
+}   
